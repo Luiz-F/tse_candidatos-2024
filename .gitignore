@@ -5,4 +5,4 @@ data/consulta_coligacao_2024/
 data/motivo_cassacao_2024/
 data/rede_social_candidato_2024/
 .tse/
-data/database1.db
+#data/database1.db
